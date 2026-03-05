@@ -38,11 +38,10 @@ Before booting the OpenCore USB, make sure to configure your Lenovo BIOS with th
 - [x] Ethernet / LAN port
 - [x] USB Ports (Working perfectly with USBToolBox default configuration)
 - [x] iCloud, App Store, iMessage (See disclaimer below)
-- [x] Short Sleep & Wake
+- [x] Sleep & WakeUP
 - [x] Native Display Port
 
 ## 🔴 Known Issues / Not Working
-- [ ] **Prolonged Sleep / Deep Sleep:** The system enters sleep and wakes up perfectly fine for short periods. However, if left in sleep mode for an extended amount of time, the system fails to wake up (black screen / unresponsive) and requires a hard reboot. *(No other bugs found so far).*
 
 ---
 
