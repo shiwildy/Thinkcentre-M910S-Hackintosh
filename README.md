@@ -27,6 +27,7 @@ Before booting the OpenCore USB, make sure to configure your Lenovo BIOS with th
 | **Storage2** | Seagate HDD 500GB SATA |
 | **Ethernet/LAN**| Intel I219-LM |
 | **Wi-Fi/BT** | None |
+| **Display** | Xiaomi A27QI - 27Inch 100Hz |
 | **SMBIOS** | `iMac17,1` |
 
 ---
@@ -38,6 +39,7 @@ Before booting the OpenCore USB, make sure to configure your Lenovo BIOS with th
 - [x] USB Ports (Working perfectly with USBToolBox default configuration)
 - [x] iCloud, App Store, iMessage (See disclaimer below)
 - [x] Short Sleep & Wake
+- [x] Native Display Port
 
 ## 🔴 Known Issues / Not Working
 - [ ] **Prolonged Sleep / Deep Sleep:** The system enters sleep and wakes up perfectly fine for short periods. However, if left in sleep mode for an extended amount of time, the system fails to wake up (black screen / unresponsive) and requires a hard reboot. *(No other bugs found so far).*
