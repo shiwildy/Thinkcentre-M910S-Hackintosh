@@ -1,6 +1,6 @@
 # 🍏 ThinkCentre M910S on Hackintosh
 
-![macOS](https://img.shields.io/badge/macOS-Monterey_12.x-000000?style=for-the-badge&logo=apple&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-Ventura_13.x-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![OpenCore](https://img.shields.io/badge/OpenCore-Bootloader-blue?style=for-the-badge)
 
 This repository contains the OpenCore EFI configuration required to run macOS Ventura on a **Lenovo ThinkCentre M910s** powered by an Intel Core i3-6100 (Skylake) processor.
