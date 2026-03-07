@@ -40,6 +40,7 @@ Before booting the OpenCore USB, make sure to configure your Lenovo BIOS with th
 - [x] iCloud, App Store, iMessage (See disclaimer below)
 - [x] Sleep & WakeUP
 - [x] Native Display Port
+- [x] USB Tethering / RNDIS
 
 ## 🔴 Known Issues / Not Working
 
