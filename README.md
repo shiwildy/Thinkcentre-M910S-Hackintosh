@@ -6,7 +6,7 @@
 This repository contains the OpenCore EFI configuration required to run macOS Ventura on a **Lenovo ThinkCentre M910s** powered by an Intel Core i3-6100 (Skylake) processor.
 
 ## 📸 System Info (Neofetch)
-![Neofetch](screenshot/Screen%20Shot%202026-03-06%20at%2004.40.48.png)
+![Neofetch](screenshot/Screenshot 2026-03-09 at 23.43.20.png)
 
 ## ⚙️ BIOS Settings
 Before booting the OpenCore USB, make sure to configure your Lenovo BIOS with the following settings:
