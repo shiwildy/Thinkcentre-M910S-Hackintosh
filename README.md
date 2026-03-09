@@ -1,12 +1,12 @@
 # 🍏 ThinkCentre M910S on Hackintosh
 
-![macOS](https://img.shields.io/badge/macOS-Monterey_12.x-000000?style=for-the-badge&logo=apple&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-Ventura_13.x-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![OpenCore](https://img.shields.io/badge/OpenCore-Bootloader-blue?style=for-the-badge)
 
-This repository contains the OpenCore EFI configuration required to run macOS Monterey on a **Lenovo ThinkCentre M910s** powered by an Intel Core i3-6100 (Skylake) processor.
+This repository contains the OpenCore EFI configuration required to run macOS Ventura on a **Lenovo ThinkCentre M910s** powered by an Intel Core i3-6100 (Skylake) processor.
 
 ## 📸 System Info (Neofetch)
-![Neofetch](screenshot/Screen%20Shot%202026-03-06%20at%2004.40.48.png)
+![Neofetch](screenshot/Screenshot%202026-03-09%20at%2023.43.20.png)
 
 ## ⚙️ BIOS Settings
 Before booting the OpenCore USB, make sure to configure your Lenovo BIOS with the following settings:
@@ -20,20 +20,21 @@ Before booting the OpenCore USB, make sure to configure your Lenovo BIOS with th
 | Component | Specification |
 | :--- | :--- |
 | **Model** | Lenovo ThinkCentre M910s (SFF) |
-| **CPU** | Intel Core i3-6100 @ 3.70 GHz (Skylake) |
-| **iGPU** | Intel HD Graphics 530 |
+| **CPU** | Intel Core i5-7500 @ 3.40 GHz (Kabylake) |
+| **iGPU** | Intel HD Graphics 630 |
 | **RAM** | 12GB DDR4 |
 | **Storage1** | Adata SU650 250GB SSD SATA |
 | **Storage2** | Seagate HDD 500GB SATA |
 | **Ethernet/LAN**| Intel I219-LM |
 | **Wi-Fi/BT** | None |
 | **Display** | Xiaomi A27QI - 27Inch 100Hz |
-| **SMBIOS** | `iMac17,1` |
+| **SMBIOS** | `iMac18,1` |
+| **OS** | MacOS Ventura |
 
 ---
 
 ## 🟢 What's Working
-- [x] iGPU Acceleration (Intel HD 530)
+- [x] iGPU Acceleration (Intel HD 630)
 - [x] Audio (Speaker & Mic)
 - [x] Ethernet / LAN port
 - [x] USB Ports (Working perfectly with USBToolBox default configuration)
